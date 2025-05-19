@@ -1,6 +1,9 @@
 # vscode
 .history
 
+# node_modules
+node_modules
+
 # vitepress
 docs/.vitepress/dist
 docs/.vitepress/cache
