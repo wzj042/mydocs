@@ -12,6 +12,7 @@ export default defineConfig({
   },
   title: "Xqh's Docs",
   description: "Relevant information compiled, organized or collected by an individual",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon.ico',
